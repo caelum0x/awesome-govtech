@@ -93,6 +93,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Contracting Data Standard](https://standard.open-contracting.org/) – Global standard for transparent procurement data.
 - [GovSpend](https://govspend.com/) – Government procurement and spending analytics.
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
+- [Bidstage](https://bidstage.com/) – Tracks open government tenders and contract-renewal windows, alerting vendors before bid deadlines and award-expiry dates.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
 
